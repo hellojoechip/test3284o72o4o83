@@ -1,6 +1,5 @@
-# test3284o72o4o83
+# Hello class!
 
-Hello!
+I hope you learned something today
 
-* list item 1
-* list item 2
+<hr>
